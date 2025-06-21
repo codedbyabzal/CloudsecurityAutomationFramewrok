@@ -60,8 +60,6 @@ Integration with Threat Intelligence APIs
 
 Role-Based Access Control (RBAC) for admin dashboard
 
-📜 License
-MIT License
 
 🙏 Acknowledgements
 Google Cloud Documentation
